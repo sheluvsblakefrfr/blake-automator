@@ -21,7 +21,7 @@
 
 ## 🛠️ How to Use
 
-1. **Download** `BlakeAutomator.exe` from the [latest release](https://github.com/sheluvsblakefrfr/blake-automator/releases/latest)
+1. **Download** `BlakeAutomater_v4.0.0.ZIP` from the [latest release](https://github.com/sheluvsblakefrfr/blake-automator/releases/latest)
 2. **Run it** — no installation required!
 3. Pick **Auto Clicker**, **Keyboard Auto**, or **Macro Recorder** from the sleek sidebar.
 4. Set your target keys, speed delays, and humanizer settings.
